@@ -17,6 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"haha");
     // Do any additional setup after loading the view, typically from a nib.
 //    UIView *view1 = [TestView new ];
 //    UIView *view2 = [TestView new ];
